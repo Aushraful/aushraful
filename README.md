@@ -31,20 +31,20 @@ Docker · Nginx · Git · CI/CD · VPS Hosting · Physical Servers · DigitalOce
 GraphQL · Livewire · Alpine.js · Node.js · Python · ELK Stack  
 Server Virtualization · Server Administration · Bash Scripting · GitHub Actions
 
----
+<!-- ---
 
 ### 🌱 Currently Exploring / Interested In
 
 Kubernetes · AI/ML with Python · Advanced AWS (IAM, Lambda, RDS)  
-Cybersecurity · Penetration Testing · Ethical Hacking · Graph Algorithms
+Cybersecurity · Penetration Testing · Ethical Hacking · Graph Algorithms -->
 
 ---
 
 ### 💡 Personal Interests
 
 🌿 Urban Gardening  
-🛡️ Security Research & Ethical Hacking  
-🧒 Family & Child Development (Proud dad of two boys)  
+<!-- 🛡️ Security Research & Ethical Hacking  -->
+<!-- 🧒 Family & Child Development (Proud dad of two boys)   -->
 🔍 Continuous Learning & Technical Research
 
 <!-- ---
